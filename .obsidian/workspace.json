@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f56e97a963e169",
+        "id": "cd07efdde8c1ae9b",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec08058ec032f3b",
+            "id": "37764753e601ae77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec08058ec032f3b",
+  "active": "37764753e601ae77",
   "lastOpenFiles": [
+    "Intro to Moral Issues/Untitled.md",
+    "Abstract Algebra/Review - Logic Theory.md",
+    "Abstract Algebra/Chapter 1.md",
+    "Abstract Algebra/Review - Set Theory.md",
     "Statistical Physics.md",
     "README.md",
     "Intro to Moral Issues.md",
@@ -147,9 +151,6 @@
     "Abstract Algebra.md",
     "Statistical Physics/Lecture 2.md",
     "Statistical Physics/Lecture 1.md",
-    "Abstract Algebra/Chapter 1.md",
-    "Abstract Algebra/Set Theory.md",
-    "Abstract Algebra/Logic Connectives.md",
     "Abstract Algebra/Logic Principles.md",
     "Advanced Linear Algebra",
     "Statistical Physics",
