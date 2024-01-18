@@ -11,8 +11,12 @@
             "id": "37764753e601ae77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Linear Algebra/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced Linear Algebra/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced Linear Algebra/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Advanced Linear Algebra/Lecture 2.md"
+              }
             }
           }
         ]
@@ -140,17 +148,18 @@
   },
   "active": "37764753e601ae77",
   "lastOpenFiles": [
-    "Intro to Moral Issues/Untitled.md",
-    "Abstract Algebra/Review - Logic Theory.md",
-    "Abstract Algebra/Chapter 1.md",
-    "Abstract Algebra/Review - Set Theory.md",
-    "Statistical Physics.md",
-    "README.md",
+    "Statistical Physics/Lecture 2.md",
+    "Statistical Physics/Lecture 1.md",
+    "Advanced Linear Algebra/Lecture 2.md",
     "Intro to Moral Issues.md",
     "Advanced Linear Algebra.md",
     "Abstract Algebra.md",
-    "Statistical Physics/Lecture 2.md",
-    "Statistical Physics/Lecture 1.md",
+    "Abstract Algebra/Review - Set Theory.md",
+    "Abstract Algebra/Review - Logic Theory.md",
+    "Abstract Algebra/Chapter 1.md",
+    "Intro to Moral Issues/Untitled.md",
+    "Statistical Physics.md",
+    "README.md",
     "Abstract Algebra/Logic Principles.md",
     "Advanced Linear Algebra",
     "Statistical Physics",
