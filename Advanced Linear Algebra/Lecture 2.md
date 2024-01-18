@@ -1,3 +1,4 @@
+**Date: 1/18/2024**
 ### Systems of Linear Equations
 A system of linear equations is a finite set of linear equations each with the same variables.
 All variables must be of polynomial degree 1.

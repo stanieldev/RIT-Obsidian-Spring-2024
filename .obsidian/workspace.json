@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 2.md",
+                "file": "Abstract Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 2.md",
+                "file": "Abstract Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 2.md",
+                "file": "Abstract Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 2.md"
+                "file": "Abstract Algebra.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37764753e601ae77",
+  "active": "b924a4b9b65c5410",
   "lastOpenFiles": [
-    "Statistical Physics/Lecture 2.md",
-    "Statistical Physics/Lecture 1.md",
     "Advanced Linear Algebra/Lecture 2.md",
+    "Statistical Physics/Lecture 1.md",
+    "Statistical Physics/Lecture 2.md",
     "Intro to Moral Issues.md",
     "Advanced Linear Algebra.md",
     "Abstract Algebra.md",
