@@ -16,13 +16,13 @@ Topic | Date
 ---|-
 What is statistical mechanics? | 1 week  
 Random walks and emergent properties | 1 Week  
-Temperature and equilibrium: | 1.5 weeks  
-Entropy: | 1.5 Weeks  
-Midterm I | Feb 22 or 27  
-Free Energies and Ensembles: | 2 Weeks  
-Calculations and Computations: | 2 Weeks  
-Order Parameters and Broken Symmetries: | 2 Weeks  
-Midterm II | mid April  
-Correlations Response and Dissipation: | 1.5 Weeks  
-Phase Transitions: | 1.5 Weeks 
-Final | May
+Temperature and equilibrium | 1.5 weeks  
+Entropy | 1.5 Weeks  
+**Midterm I** | Feb 22 or 27  
+Free Energies and Ensembles | 2 Weeks  
+Calculations and Computations | 2 Weeks  
+Order Parameters and Broken Symmetries | 2 Weeks  
+**Midterm II** | mid April  
+Correlations Response and Dissipation | 1.5 Weeks  
+Phase Transitions | 1.5 Weeks 
+**Final** | May

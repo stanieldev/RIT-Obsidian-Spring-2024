@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a247f604cd7e117",
+        "id": "a6f56e97a963e169",
         "type": "tabs",
         "children": [
           {
-            "id": "726c688e445f3d0b",
+            "id": "4ec08058ec032f3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Algebra/Chapter 0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Algebra/Chapter 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Algebra/Chapter 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Abstract Algebra/Chapter 0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,21 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "726c688e445f3d0b",
+  "active": "4ec08058ec032f3b",
   "lastOpenFiles": [
-    "Statistical Physics/Lecture 2.md",
-    "Statistical Physics/Lecture 1.md",
     "Statistical Physics.md",
-    "Abstract Algebra/Set Operands.md",
-    "Abstract Algebra/Logical Operands.md",
-    "Abstract Algebra/Chapter 0.md",
-    "Advanced Linear Algebra",
-    "Abstract Algebra.md",
+    "README.md",
     "Intro to Moral Issues.md",
     "Advanced Linear Algebra.md",
+    "Abstract Algebra.md",
+    "Statistical Physics/Lecture 2.md",
+    "Statistical Physics/Lecture 1.md",
+    "Abstract Algebra/Chapter 1.md",
+    "Abstract Algebra/Set Theory.md",
+    "Abstract Algebra/Logic Connectives.md",
+    "Abstract Algebra/Logic Principles.md",
+    "Advanced Linear Algebra",
     "Statistical Physics",
     "Intro to Moral Issues",
-    "README.md",
     "Abstract Algebra"
   ]
 }
