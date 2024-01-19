@@ -24,43 +24,26 @@ E_\gamma &= \boxed{\dfrac{h^2}{8m_eD^2}}
 With a wavelength:
 $$\dfrac{hc}{\lambda}=\dfrac{h^2}{8m_eD^2}\left(1^2-0^2\right)$$
 $$\boxed{\lambda=\dfrac{8m_ec^2D^2}{hc}}$$
-
-
-
-
-
+### 3-Dimensional Infinite Cube Potential Well
 $$E_n=\dfrac{h^2}{8m_eD^2}\left(\vec{n}\cdot\vec{n}\right)=\dfrac{h^2}{8m_eD^2}\left(n_x^2+n_y^2+n_z^2\right)$$
-
 $$\begin{align}
 E_\gamma &= \boxed{\dfrac{3h^2}{8m_eD^2}}
 \end{align}$$
-
+$$\begin{align}\lambda &= \boxed{\dfrac{8m_ec^2D^2}{3hc}}\end{align}$$
+### 3-Dimensional Infinite Cube Potential Well with Gap Energy
 $$\begin{align}
 E_\gamma &= \boxed{\dfrac{3h^2}{8m_eD^2} + |E_g|}
 \end{align}$$
-
-$$\begin{align}
-\lambda &= \boxed{\dfrac{8m_ec^2D^2}{3hc}}
-\end{align}$$
-
 $$\begin{align}
 \lambda &= \dfrac{hc}{\dfrac{3(hc)^2}{8(m_ec^2)D^2} + |E_g|}
 \end{align}$$
-
-
-
-
+### Infinite Spherical Potential Well with Gap Energy
 $$E_{n,l} = z_{n,l}\cdot\dfrac{\hbar^2}{2mD^2}, \mathrm{\ where\ } z_{n,l} \mathrm{\ are\ the\ zeros\ of\ the\ Bessel\ function.}$$
-
 $$\begin{align}
 E_\gamma &= \boxed{\dfrac{\hbar^2}{2mD^2}\left(\pi-0\right) + |E_g|}
 \end{align}$$
-
 $$\begin{align}
 \lambda &= \dfrac{hc}{\dfrac{\pi(hc)^2}{8\pi^2(m_ec^2)D^2} + |E_g|}
 \end{align}$$
-
-
-
-
+### Adjusted Infinite Spherical Potential Well with Gap Energy
 $$\lambda = \dfrac{hc}{\dfrac{h^2}{2m_e^*D^2}+\dfrac{h^2}{2m_h^*D^2}+|E_g|}$$
