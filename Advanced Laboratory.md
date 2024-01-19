@@ -1,4 +1,4 @@
-Instructor: Dr. Michael Pierce
+Instructor: Dr. Aaron McGowan
 Email: 
 Phone: 
 Office: 

@@ -22,7 +22,7 @@ Entropy | 1.5 Weeks
 Free Energies and Ensembles | 2 Weeks  
 Calculations and Computations | 2 Weeks  
 Order Parameters and Broken Symmetries | 2 Weeks  
-**Midterm II** | mid April  
+**Midterm II** | Mid April  
 Correlations Response and Dissipation | 1.5 Weeks  
 Phase Transitions | 1.5 Weeks 
 **Final** | May
