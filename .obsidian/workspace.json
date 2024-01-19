@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5729dffee22a9dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Algebra.md",
+                "file": "Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Algebra.md",
+                "file": "Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Algebra.md"
+                "file": "Mathematics.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b924a4b9b65c5410",
+  "active": "5729dffee22a9dda",
   "lastOpenFiles": [
+    "Abstract Algebra.md",
+    "Mathematics.md",
     "Advanced Linear Algebra/Lecture 2.md",
     "Statistical Physics/Lecture 1.md",
     "Statistical Physics/Lecture 2.md",
     "Intro to Moral Issues.md",
     "Advanced Linear Algebra.md",
-    "Abstract Algebra.md",
     "Abstract Algebra/Review - Set Theory.md",
     "Abstract Algebra/Review - Logic Theory.md",
     "Abstract Algebra/Chapter 1.md",
