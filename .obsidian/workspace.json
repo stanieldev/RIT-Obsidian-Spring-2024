@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd07efdde8c1ae9b",
+        "id": "582fcd01c0fff13b",
         "type": "tabs",
         "children": [
           {
-            "id": "37764753e601ae77",
+            "id": "cb104240efc4e97a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5729dffee22a9dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics.md",
+                "file": "Abstract Algebra/Review - Logic Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics.md",
+                "file": "Abstract Algebra/Review - Logic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics.md",
+                "file": "Abstract Algebra/Review - Logic Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics.md"
+                "file": "Abstract Algebra/Review - Logic Theory.md"
               }
             }
           }
@@ -159,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5729dffee22a9dda",
+  "active": "cb104240efc4e97a",
   "lastOpenFiles": [
+    "Abstract Algebra/Chapter 1.md",
+    "Capstone Preparation.md",
+    "Capstone Preparation",
+    "Advanced Laboratory/Quantum Dots Lab.md",
     "Abstract Algebra.md",
-    "Mathematics.md",
+    "Advanced Laboratory/Propagation of Uncertainty.md",
+    "Advanced Laboratory",
     "Advanced Linear Algebra/Lecture 2.md",
     "Statistical Physics/Lecture 1.md",
     "Statistical Physics/Lecture 2.md",
@@ -170,7 +162,6 @@
     "Advanced Linear Algebra.md",
     "Abstract Algebra/Review - Set Theory.md",
     "Abstract Algebra/Review - Logic Theory.md",
-    "Abstract Algebra/Chapter 1.md",
     "Intro to Moral Issues/Untitled.md",
     "Statistical Physics.md",
     "README.md",
