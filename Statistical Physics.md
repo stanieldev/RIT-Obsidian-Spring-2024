@@ -1,8 +1,13 @@
-Instructor: Dr. Moumita Das
-Email: modsps@rit.edu
-Office: GOS-3338
-Office Hours: Wednesday 6pm - 7:30pm
-
+### Instructor Details
+| Detail | Value |
+| ---- | ---- |
+| Instructor | Dr. Moumita Das |
+| Email | modsps@rit.edu |
+| Phone | N/A |
+| Office Location | GOS-3338 |
+| Office Hours | Wed 6:00-7:30pm |
+### Grading Rubric
+https://sethna.lassp.cornell.edu/StatMech/
 | Component | Weight |
 | ---- | ---- |
 | Exam 1 | 14% |

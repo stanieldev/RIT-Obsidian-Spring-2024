@@ -1,3 +1,4 @@
+### Propagation of Uncertainty
 You've measure some values of $x_i\pm \delta x_i$.
 Given a function $f(x_i)$, how would you determine $\delta f(x_i)$?
 $$\delta f(x_i) = \sqrt{\sum_i\left|\dfrac{\partial f}{\partial x_i}\delta x_i\right|^2}$$

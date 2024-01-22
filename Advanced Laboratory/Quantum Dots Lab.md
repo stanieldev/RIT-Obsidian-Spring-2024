@@ -26,24 +26,35 @@ $$\dfrac{hc}{\lambda}=\dfrac{h^2}{8m_eD^2}\left(1^2-0^2\right)$$
 $$\boxed{\lambda=\dfrac{8m_ec^2D^2}{hc}}$$
 ### 3-Dimensional Infinite Cube Potential Well
 $$E_n=\dfrac{h^2}{8m_eD^2}\left(\vec{n}\cdot\vec{n}\right)=\dfrac{h^2}{8m_eD^2}\left(n_x^2+n_y^2+n_z^2\right)$$
-$$\begin{align}
-E_\gamma &= \boxed{\dfrac{3h^2}{8m_eD^2}}
-\end{align}$$
-$$\begin{align}\lambda &= \boxed{\dfrac{8m_ec^2D^2}{3hc}}\end{align}$$
+$$E_\gamma = \boxed{\dfrac{3h^2}{8m_eD^2}}, \ \ \lambda = \boxed{\dfrac{8m_ec^2D^2}{3hc}}$$
+
 ### 3-Dimensional Infinite Cube Potential Well with Gap Energy
-$$\begin{align}
-E_\gamma &= \boxed{\dfrac{3h^2}{8m_eD^2} + |E_g|}
-\end{align}$$
-$$\begin{align}
-\lambda &= \dfrac{hc}{\dfrac{3(hc)^2}{8(m_ec^2)D^2} + |E_g|}
-\end{align}$$
+$$E_\gamma = \boxed{\dfrac{3h^2}{8m_eD^2} + |E_g|}, \ \ \lambda = \boxed{\dfrac{hc}{\dfrac{3(hc)^2}{8(m_ec^2)D^2} + |E_g|}}$$
+
 ### Infinite Spherical Potential Well with Gap Energy
 $$E_{n,l} = z_{n,l}\cdot\dfrac{\hbar^2}{2mD^2}, \mathrm{\ where\ } z_{n,l} \mathrm{\ are\ the\ zeros\ of\ the\ Bessel\ function.}$$
-$$\begin{align}
-E_\gamma &= \boxed{\dfrac{\hbar^2}{2mD^2}\left(\pi-0\right) + |E_g|}
-\end{align}$$
-$$\begin{align}
-\lambda &= \dfrac{hc}{\dfrac{\pi(hc)^2}{8\pi^2(m_ec^2)D^2} + |E_g|}
-\end{align}$$
+$$E_\gamma = \boxed{\dfrac{\hbar^2}{2mD^2}\left(\pi-0\right) + |E_g|}, \ \ \lambda = \boxed{\dfrac{hc}{\dfrac{(hc)^2}{8\pi(m_ec^2)D^2} + |E_g|}}$$
+
 ### Adjusted Infinite Spherical Potential Well with Gap Energy
 $$\lambda = \dfrac{hc}{\dfrac{h^2}{2m_e^*D^2}+\dfrac{h^2}{2m_h^*D^2}+|E_g|}$$
+
+
+### Table of Peak Emitted Wavelengths
+| Wavelength | $500\mathrm{nm}$ | $520\mathrm{nm}$ | $560\mathrm{nm}$ | $600\mathrm{nm}$ | $620\mathrm{nm}$ | $640\mathrm{nm}$ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1D Square | 8.243e+26 nm | 8.916e+26 nm | 1.034e+27 nm | 1.187e+27 nm | 1.267e+27 nm | 1.351e+27 nm |
+| 3D Square | 2.748e+26 nm | 2.972e+26 nm | 3.447e+26 nm | 3.957e+26 nm | 4.228e+26 nm | 4.502e+26 nm |
+| 3D Square + Gap | 7.230e-34 nm | 6.684e-34 nm | 5.763e-34 nm | 5.021e-34 nm | 4.702e-34 nm | 4.413e-34 nm |
+| 3D Sphere + Gap | 712.6 nm | 712.6 nm | 712.56 nm | 712.56 nm | 712.56 nm | 712.56 nm |
+| 3D Sphere + G + Rm | 712.6 nm | 712.6 nm | 712.56 nm | 712.56 nm | 712.56 nm | 712.56 nm |
+
+
+### Regression Data
+| Diameter | Wavelength Peak<br>(Gaussian) | $\chi^2$ | Wavelength Peak<br>(Voigt) | $\chi^2$ | Wavelength Peak<br>(Skewed Voigt) | $\chi^2$ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 500nm | 525.2±0.5 nm | 154.5 | 523.6±0.5 nm | 148.1 |  |  |
+| 520nm | 544.7±0.8 nm | 177.7 | 544.7±0.9 nm | 177.8 |  |  |
+| 560nm | 558.3±0.3 nm | 82.02 | 558.3±0.3 nm | 82.13 |  |  |
+| 600nm | 620.6±0.3 nm | 104.6 | 620.6±0.3 nm | 104.8 |  |  |
+| 620nm | 635.4±0.1 nm | 124.2 | 635.4±0.1 nm | 124.1 |  |  |
+| 640nm | 656.7±0.3 nm | 74.70 | 656.7±0.3 nm | 74.85 |  |  |
