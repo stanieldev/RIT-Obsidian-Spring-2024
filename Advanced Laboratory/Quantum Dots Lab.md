@@ -32,11 +32,11 @@ $$E_\gamma = \boxed{\dfrac{3h^2}{8m_eD^2}}, \ \ \lambda = \boxed{\dfrac{8m_ec^2D
 $$E_\gamma = \boxed{\dfrac{3h^2}{8m_eD^2} + |E_g|}, \ \ \lambda = \boxed{\dfrac{hc}{\dfrac{3(hc)^2}{8(m_ec^2)D^2} + |E_g|}}$$
 
 ### Infinite Spherical Potential Well with Gap Energy
-$$E_{n,l} = z_{n,l}\cdot\dfrac{\hbar^2}{2mD^2}, \mathrm{\ where\ } z_{n,l} \mathrm{\ are\ the\ zeros\ of\ the\ Bessel\ function.}$$
-$$E_\gamma = \boxed{\dfrac{\hbar^2}{2mD^2}\left(\pi-0\right) + |E_g|}, \ \ \lambda = \boxed{\dfrac{hc}{\dfrac{(hc)^2}{8\pi(m_ec^2)D^2} + |E_g|}}$$
+$$E_{n,l} = z_{n,l}^2\cdot\dfrac{\hbar^2}{2mD^2}, \mathrm{\ where\ } z_{n,l} \mathrm{\ are\ the\ zeros\ of\ the\ Bessel\ function.}$$
+$$E_\gamma = \boxed{\dfrac{\hbar^2}{2mD^2}\left(\pi^2-0^2\right) + |E_g|}, \ \ \lambda = \boxed{\dfrac{hc}{\dfrac{(hc)^2}{8(m_ec^2)D^2} + |E_g|}}$$
 
 ### Adjusted Infinite Spherical Potential Well with Gap Energy
-$$\lambda = \dfrac{hc}{\dfrac{h^2}{2m_e^*D^2}+\dfrac{h^2}{2m_h^*D^2}+|E_g|}$$
+$$\lambda = \dfrac{hc}{\dfrac{h^2}{2\mu D^2}+|E_g|}, \ \ \ \mu=\dfrac{m_e^*m_h^*}{m_e^*+m_h^*}$$
 
 
 ### Table of Peak Emitted Wavelengths
@@ -50,11 +50,11 @@ $$\lambda = \dfrac{hc}{\dfrac{h^2}{2m_e^*D^2}+\dfrac{h^2}{2m_h^*D^2}+|E_g|}$$
 
 
 ### Regression Data
-| Diameter | Wavelength Peak<br>(Gaussian) | $\chi^2$ | Wavelength Peak<br>(Voigt) | $\chi^2$ | Wavelength Peak<br>(Skewed Voigt) | $\chi^2$ |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 500nm | 525.2±0.5 nm | 154.5 | 523.6±0.5 nm | 148.1 |  |  |
-| 520nm | 544.7±0.8 nm | 177.7 | 544.7±0.9 nm | 177.8 |  |  |
-| 560nm | 558.3±0.3 nm | 82.02 | 558.3±0.3 nm | 82.13 |  |  |
-| 600nm | 620.6±0.3 nm | 104.6 | 620.6±0.3 nm | 104.8 |  |  |
-| 620nm | 635.4±0.1 nm | 124.2 | 635.4±0.1 nm | 124.1 |  |  |
-| 640nm | 656.7±0.3 nm | 74.70 | 656.7±0.3 nm | 74.85 |  |  |
+| Diameter | Wavelength Peak<br>(Gaussian) | $\chi^2$ | Wavelength Peak<br>(Skewed Voigt) | $\chi^2$ |
+| ---- | ---- | ---- | ---- | ---- |
+| 500nm | 525.2±0.5 nm | 152.2 | 524.3±0.5 nm | 150.1 |
+| 520nm | 535.4±0.8 nm | 170.2 | 538.2±0.8 nm | 146.5 |
+| 560nm | 558.3±0.3 nm | 82.02 | 558.3±0.3 nm | 81.30 |
+| 600nm | 620.6±0.3 nm | 104.6 | 620.7±0.3 nm | 104.2 |
+| 620nm | 635.4±0.1 nm | 124.2 | 635.4±0.1 nm | 124.3 |
+| 640nm | 656.7±0.3 nm | 89.20 | 656.7±0.3 nm | 89.23 |

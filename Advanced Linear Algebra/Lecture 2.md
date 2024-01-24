@@ -76,3 +76,5 @@ Section 2.1: 26
 Section 2.2: 26, 28, 34
 Section 2.3: 4, 12, 28
 Section 2.4: 4
+**Section 3.1: 6, 8**
+**Section 3.2: 6, 10, 14**
