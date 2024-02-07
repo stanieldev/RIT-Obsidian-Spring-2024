@@ -60,3 +60,4 @@ Effectively, doing 1 matrix at a time with diagonals so it's much faster.
 ### Homework
 Sec 3.3: 6,26,28,50,52
 Sec 3.4: 4,8,10
+**Sec 3.5: 6,16,18,29,30,36,46,48**
