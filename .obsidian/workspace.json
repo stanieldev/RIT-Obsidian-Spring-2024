@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Laboratory/Interferometry.md",
+                "file": "Statistical Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Laboratory/Interferometry.md",
+                "file": "Statistical Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Laboratory/Interferometry.md",
+                "file": "Statistical Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Laboratory/Interferometry.md"
+                "file": "Statistical Physics.md"
               }
             }
           }
@@ -148,39 +148,39 @@
   },
   "active": "9502c23a9ec9db67",
   "lastOpenFiles": [
-    "Statistical Physics/Lecture 7.md",
-    "Advanced Linear Algebra/Lecture 7.md",
-    "Advanced Laboratory.md",
-    "Advanced Laboratory/Interferometry.md",
-    "Advanced Laboratory/Quantum Dots Lab.md",
-    "Statistical Physics/Lecture 1.md",
-    "Advanced Linear Algebra.md",
-    "Capstone Preparation.md",
+    "README.md",
     "Intro to Moral Issues.md",
-    "Statistical Physics.md",
-    "Statistical Physics/Lecture 6.md",
-    "Statistical Physics/Lecture 5.md",
-    "Advanced Linear Algebra/Lecture 6.md",
-    "Advanced Linear Algebra/Lecture 5.md",
-    "Advanced Linear Algebra/Lecture 2.md",
-    "Advanced Linear Algebra/Lecture 3.md",
+    "Capstone Preparation.md",
+    "Advanced Linear Algebra.md",
+    "Advanced Laboratory.md",
     "Lanata Research/Equations of Use.md",
-    "Advanced Linear Algebra/Lecture 4.md",
-    "Statistical Physics/Lecture 2.md",
+    "Lanata Research/Working.md",
+    "Lanata Research/Relativity.md",
+    "Statistical Physics/Lecture 7.md",
+    "Statistical Physics/Lecture 6.md",
+    "Statistical Physics/Lecture 4.md",
+    "Statistical Physics/Lecture 8.md",
+    "Statistical Physics/Lecture 9.md",
+    "Statistical Physics/Homework 2.md",
+    "Statistical Physics/Lecture 5.md",
     "Statistical Physics/Lecture 3.md",
+    "Statistical Physics/Lecture 2.md",
+    "Statistical Physics/Lecture 1.md",
+    "Statistical Physics.md",
+    "Advanced Laboratory/Friday Lectures.md",
+    "Untitled.md",
+    "Advanced Linear Algebra/Lecture 9.md",
+    "Advanced Linear Algebra/Lecture 8.md",
+    "Advanced Linear Algebra/Lecture 7.md",
+    "Advanced Laboratory/Noisy Signals.md",
+    "Advanced Laboratory/Interferometry.md",
     "Advanced Laboratory/media/interferometer3.png",
     "Advanced Laboratory/media/interferometer2.png",
     "Advanced Laboratory/media/interferometer.png",
     "Advanced Laboratory/media/interferometer - Copy.png",
     "Advanced Laboratory/media",
     "Advanced Laboratory/New folder",
-    "Advanced Laboratory/Friday Lectures.md",
-    "Statistical Physics/Lecture 4.md",
-    "Advanced Linear Algebra/Homework 2.md",
-    "README.md",
     "Lanata Research",
-    "Abstract Algebra.md",
-    "Abstract Algebra/Chapter 1.md",
     "Capstone Preparation",
     "Advanced Laboratory",
     "Advanced Linear Algebra",

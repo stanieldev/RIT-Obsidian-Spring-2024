@@ -13,7 +13,7 @@ $$\left\langle r^2\right\rangle = \left(\dfrac{D}{\Delta t}\right)t^2, \ \ \ t \
 As $t \rightarrow \infty$, we can express this equation as: 
 $$\left\langle\dfrac{d(r^2)}{dt}\right\rangle = 2D$$
 $$\left\langle r^2\right\rangle = 2Dt, \ \ \ t \rightarrow \infty$$
-For an exact value, we can integrate both sides to get the following?:
+For an exact value, we can integrate both sides to get the following:
 $$\left\langle r^2\right\rangle = \int_0^t \left\langle\dfrac{d(r^2)}{dt}\right\rangle dt = 2D\left(t+ \Delta t \cdot e^{-\tfrac{t}{\Delta t}}\right|_0^t = 2Dt + 2D \Delta t\left(e^{-\tfrac{t}{\Delta t}} - 1\right)$$
 
 

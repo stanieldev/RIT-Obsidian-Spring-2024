@@ -15,8 +15,7 @@ Where $\Delta\tau$ is lag time.
 ### Fractals
 Fractal Dimension: Scale of Areas to Lengths.
 If a fractal is 3x area per 2x length, then the dimension is $\log_2\left(3\right)$.
-
-### 
+ 
 
 
 

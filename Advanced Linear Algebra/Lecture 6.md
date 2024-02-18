@@ -41,13 +41,3 @@ $$\mathrm{adj}(A) = A^{-1}\det(A)$$
 
 
 
-
-
-### Eigenvalues & Eigenvectors
-
-
-
-
-
-
-### Homework

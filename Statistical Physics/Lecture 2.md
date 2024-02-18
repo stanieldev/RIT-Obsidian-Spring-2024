@@ -26,6 +26,7 @@ $$\begin{aligned}
 | $6.02\cdot10^{23}$ | $3.2\dots\ \cdot10^{25}$ | $3.2\dots\ \cdot10^{25}$ | $3.2\dots\ \cdot10^{25}$ |
 As the value of $n$ get's larger, the full approximation becomes extremely close.
 
+
 ### Probability of Discrete Events
 #### Example of Discrete Events
 *Suppose you flip 20 fair coins.*
