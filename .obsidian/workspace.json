@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9502c23a9ec9db67",
+            "id": "83072dded23786ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Physics.md",
+                "file": "Advanced Linear Algebra/Lecture 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Physics.md",
+                "file": "Advanced Linear Algebra/Lecture 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Physics.md",
+                "file": "Advanced Linear Algebra/Lecture 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Physics.md"
+                "file": "Advanced Linear Algebra/Lecture 10.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9502c23a9ec9db67",
+  "active": "83072dded23786ac",
   "lastOpenFiles": [
+    "Statistical Physics.md",
+    "Advanced Linear Algebra/Lecture 10.md",
     "README.md",
     "Intro to Moral Issues.md",
     "Capstone Preparation.md",
@@ -166,9 +168,7 @@
     "Statistical Physics/Lecture 3.md",
     "Statistical Physics/Lecture 2.md",
     "Statistical Physics/Lecture 1.md",
-    "Statistical Physics.md",
     "Advanced Laboratory/Friday Lectures.md",
-    "Untitled.md",
     "Advanced Linear Algebra/Lecture 9.md",
     "Advanced Linear Algebra/Lecture 8.md",
     "Advanced Linear Algebra/Lecture 7.md",
