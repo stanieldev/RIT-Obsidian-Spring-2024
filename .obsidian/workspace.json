@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 10.md",
+                "file": "Advanced Laboratory/Xray Diffraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9872279af20eb5dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 10.md",
+                "file": "Advanced Laboratory/Xray Diffraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 10.md",
+                "file": "Advanced Laboratory/Xray Diffraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Linear Algebra/Lecture 10.md"
+                "file": "Advanced Laboratory/Xray Diffraction.md"
               }
             }
           }
@@ -148,8 +149,14 @@
   },
   "active": "83072dded23786ac",
   "lastOpenFiles": [
-    "Statistical Physics.md",
+    "Statistical Physics/Lecture 11.md",
+    "Advanced Laboratory/Xray Diffraction.md",
+    "Advanced Linear Algebra/Lecture 11.md",
     "Advanced Linear Algebra/Lecture 10.md",
+    "Advanced Laboratory/Noisy Signals.md",
+    "Statistical Physics/Lecture 10.md",
+    "Statistical Physics/Homework 2.md",
+    "Statistical Physics.md",
     "README.md",
     "Intro to Moral Issues.md",
     "Capstone Preparation.md",
@@ -163,17 +170,11 @@
     "Statistical Physics/Lecture 4.md",
     "Statistical Physics/Lecture 8.md",
     "Statistical Physics/Lecture 9.md",
-    "Statistical Physics/Homework 2.md",
     "Statistical Physics/Lecture 5.md",
     "Statistical Physics/Lecture 3.md",
     "Statistical Physics/Lecture 2.md",
     "Statistical Physics/Lecture 1.md",
     "Advanced Laboratory/Friday Lectures.md",
-    "Advanced Linear Algebra/Lecture 9.md",
-    "Advanced Linear Algebra/Lecture 8.md",
-    "Advanced Linear Algebra/Lecture 7.md",
-    "Advanced Laboratory/Noisy Signals.md",
-    "Advanced Laboratory/Interferometry.md",
     "Advanced Laboratory/media/interferometer3.png",
     "Advanced Laboratory/media/interferometer2.png",
     "Advanced Laboratory/media/interferometer.png",
