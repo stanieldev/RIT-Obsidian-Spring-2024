@@ -14,16 +14,16 @@ $$\begin{align}
 A more precise approximation uses $\Gamma(x)$, leading to (for $N\gg 1$):
 $$\begin{aligned}
 \Aboxed{\log(N!) &\approx N\log N - N + \dfrac{1}{2}\log(2\pi N)} \\
-\Aboxed{\log(N!) &\approx N^Ne^{-N}\sqrt{2\pi N}}
+\Aboxed{N! &\approx N^Ne^{-N}\sqrt{2\pi N}}
 \end{aligned}$$
 #### Examples of Approximation
-| $n$ | $\log(n!)$ | $n\log n-n+\dfrac{1}{2}\log(2\pi n)$ | $n\log n-n+\dfrac{1}{2}\log(2\pi n)$ |
-| ---- | ---- | ---- | ---- |
-| 1 | $0$ | $0.0810615\dots$ | $-1$ |
-| 2 | $0.693147\dots$ | $0.651806\dots$ | $-0.613706\dots$ |
-| 4 | $3.17805\dots$ | $3.15726\dots$ | $1.54518\dots$ |
-| 50 | $148.477\dots$ | $145.60\dots$ | $148.476\dots$ |
-| $6.02\cdot10^{23}$ | $3.2\dots\ \cdot10^{25}$ | $3.2\dots\ \cdot10^{25}$ | $3.2\dots\ \cdot10^{25}$ |
+| $n$                | $\log(n!)$               | $n\log n-n+\dfrac{1}{2}\log(2\pi n)$ | $n\log n-n$              |
+| ------------------ | ------------------------ | ------------------------------------ | ------------------------ |
+| 1                  | $0$                      | $0.0810615\dots$                     | $-1$                     |
+| 2                  | $0.693147\dots$          | $0.651806\dots$                      | $-0.613706\dots$         |
+| 4                  | $3.17805\dots$           | $3.15726\dots$                       | $1.54518\dots$           |
+| 50                 | $148.477\dots$           | $145.60\dots$                        | $148.476\dots$           |
+| $6.02\cdot10^{23}$ | $3.2\dots\ \cdot10^{25}$ | $3.2\dots\ \cdot10^{25}$             | $3.2\dots\ \cdot10^{25}$ |
 As the value of $n$ get's larger, the full approximation becomes extremely close.
 
 
