@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Physics.md",
+                "file": "Advanced Laboratory/Gamma Spectroscopy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Physics.md",
+                "file": "Advanced Laboratory/Gamma Spectroscopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Physics.md",
+                "file": "Advanced Laboratory/Gamma Spectroscopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Physics.md"
+                "file": "Advanced Laboratory/Gamma Spectroscopy.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b924a4b9b65c5410",
+  "active": "a01ef22354551bb3",
   "lastOpenFiles": [
-    "README.md",
+    "Advanced Linear Algebra/Lectures/Lecture 11.md",
+    "Advanced Linear Algebra/Lectures/Lecture 10.md",
+    "Advanced Linear Algebra/Lectures/Lecture 12.md",
     "Statistical Physics.md",
+    "README.md",
     "Intro to Moral Issues.md",
     "Advanced Laboratory.md",
     "Advanced Linear Algebra.md",
@@ -175,9 +178,6 @@
     "High Performance Computing",
     "Advanced Laboratory/Gamma Spectroscopy.md",
     "Statistical Physics/Lectures/Lecture 7.md",
-    "Statistical Physics/Lectures/Lecture 9.md",
-    "Statistical Physics/Lectures/Lecture 10.md",
-    "Statistical Physics/Lectures/Lecture 11.md",
     "Advanced Laboratory/media/interferometer3.png",
     "Advanced Laboratory/media/interferometer2.png",
     "Advanced Laboratory/media/interferometer.png",
