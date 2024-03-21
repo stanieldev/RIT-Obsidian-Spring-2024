@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
+                "file": "Statistical Physics/Homework/Homework 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9872279af20eb5dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
+                "file": "Statistical Physics/Homework/Homework 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
+                "file": "Statistical Physics/Homework/Homework 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md"
+                "file": "Statistical Physics/Homework/Homework 4.md"
               }
             }
           }
@@ -148,11 +149,13 @@
   },
   "active": "fd5eea98d2c45ceb",
   "lastOpenFiles": [
-    "Advanced Linear Algebra/Lectures/Lecture 15.md",
+    "Advanced Linear Algebra/Lectures/Lecture 17.md",
+    "Statistical Physics/Lectures/Lecture 17.md",
     "Statistical Physics/Lectures/Lecture 16.md",
     "Statistical Physics/Homework/Homework 4.md",
-    "Statistical Physics/Homework/Homework 3.md",
     "Advanced Linear Algebra/Lectures/Lecture 16.md",
+    "Advanced Linear Algebra/Lectures/Lecture 15.md",
+    "Statistical Physics/Homework/Homework 3.md",
     "Advanced Linear Algebra/Lectures/Lecture 14.md",
     "Advanced Laboratory/Gamma Spectroscopy.md",
     "Advanced Linear Algebra/Lectures/Lecture 11.md",
@@ -175,8 +178,6 @@
     "Statistical Physics/Lectures/Lecture 3.md",
     "Statistical Physics/Lectures/Lecture 2.md",
     "Advanced Linear Algebra/Lectures/Lecture 2.md",
-    "Advanced Linear Algebra/Untitled.md",
-    "Advanced Linear Algebra/Lectures/Lecture 3.md",
     "High Performance Computing",
     "Advanced Laboratory/media/interferometer3.png",
     "Advanced Laboratory/media/interferometer2.png",
