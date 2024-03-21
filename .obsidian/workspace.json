@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b33ec07f4da8a487",
+        "id": "13d28c8402a4fc94",
         "type": "tabs",
         "children": [
           {
-            "id": "a01ef22354551bb3",
+            "id": "fd5eea98d2c45ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Laboratory/Gamma Spectroscopy.md",
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Laboratory/Gamma Spectroscopy.md",
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Laboratory/Gamma Spectroscopy.md",
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Laboratory/Gamma Spectroscopy.md"
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a01ef22354551bb3",
+  "active": "fd5eea98d2c45ceb",
   "lastOpenFiles": [
+    "Advanced Linear Algebra/Lectures/Lecture 15.md",
+    "Statistical Physics/Lectures/Lecture 16.md",
+    "Statistical Physics/Homework/Homework 4.md",
+    "Statistical Physics/Homework/Homework 3.md",
+    "Advanced Linear Algebra/Lectures/Lecture 16.md",
+    "Advanced Linear Algebra/Lectures/Lecture 14.md",
+    "Advanced Laboratory/Gamma Spectroscopy.md",
     "Advanced Linear Algebra/Lectures/Lecture 11.md",
     "Advanced Linear Algebra/Lectures/Lecture 10.md",
     "Advanced Linear Algebra/Lectures/Lecture 12.md",
@@ -157,14 +164,12 @@
     "Advanced Laboratory.md",
     "Advanced Linear Algebra.md",
     "Capstone Preparation.md",
-    "Statistical Physics/Homework/Homework 3.md",
     "Statistical Physics/Homework/Homework 2.md",
     "Statistical Physics/Lectures/Lecture 1.md",
     "Statistical Physics/Homework",
     "Statistical Physics/Lectures/Lecture 14.md",
     "Statistical Physics/Lectures",
     "Statistical Physics/Untitled.md",
-    "Advanced Linear Algebra/Lectures/Lecture 15.md",
     "Statistical Physics/Lectures/Lecture 4.md",
     "Advanced Linear Algebra/Lectures",
     "Statistical Physics/Lectures/Lecture 3.md",
@@ -172,12 +177,7 @@
     "Advanced Linear Algebra/Lectures/Lecture 2.md",
     "Advanced Linear Algebra/Untitled.md",
     "Advanced Linear Algebra/Lectures/Lecture 3.md",
-    "Advanced Laboratory/Friday Lectures.md",
-    "Advanced Laboratory/Xray Diffraction.md",
-    "Advanced Linear Algebra/Lectures/Lecture 14.md",
     "High Performance Computing",
-    "Advanced Laboratory/Gamma Spectroscopy.md",
-    "Statistical Physics/Lectures/Lecture 7.md",
     "Advanced Laboratory/media/interferometer3.png",
     "Advanced Laboratory/media/interferometer2.png",
     "Advanced Laboratory/media/interferometer.png",
