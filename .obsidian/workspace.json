@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94b89f8cc0a25af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistical Physics/Homework/Homework 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9872279af20eb5dc",
@@ -147,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd5eea98d2c45ceb",
+  "active": "94b89f8cc0a25af9",
   "lastOpenFiles": [
     "Advanced Linear Algebra/Lectures/Lecture 17.md",
+    "Statistical Physics/Homework/Homework 4.md",
+    "Advanced Laboratory/Polarization Rotation.md",
     "Statistical Physics/Lectures/Lecture 17.md",
     "Statistical Physics/Lectures/Lecture 16.md",
-    "Statistical Physics/Homework/Homework 4.md",
     "Advanced Linear Algebra/Lectures/Lecture 16.md",
     "Advanced Linear Algebra/Lectures/Lecture 15.md",
     "Statistical Physics/Homework/Homework 3.md",
@@ -177,7 +190,6 @@
     "Advanced Linear Algebra/Lectures",
     "Statistical Physics/Lectures/Lecture 3.md",
     "Statistical Physics/Lectures/Lecture 2.md",
-    "Advanced Linear Algebra/Lectures/Lecture 2.md",
     "High Performance Computing",
     "Advanced Laboratory/media/interferometer3.png",
     "Advanced Laboratory/media/interferometer2.png",
