@@ -1,7 +1,7 @@
 $$I = I_0 \cos(\theta)^2$$
 
 
-$$I = I_0 \cos(\phi)^2\cos(\theta-\phi)^2$$
+$$I = I_0\cos(\theta-\phi)^2$$
 
 
 
