@@ -29,4 +29,46 @@ $L$ is the length of the sample.
 $\nu$ is the Verdet constant.
 
 
+$$Z_L = j\omega L$$
+
+$$\begin{align}
+Z(\omega) &= R+R_L+j\omega L \\
+&= 2\ohm + 2.5\ohm + j\omega \left(6\cdot10^{-3}\ \mathrm{H}\right)\\
+\Aboxed{Z(\omega)&= 4.5\ohm + j\omega \left(6\cdot10^{-3}\ \mathrm{H}\right)}
+\end{align}$$
+
+$$\begin{align}
+Z(1\ \mathrm{kHz})&= 4.5\ohm + j \left(1\cdot10^{3}\ \mathrm{Hz}\right)\left(6\cdot10^{-3}\ \mathrm{H}\right)\\
+&= \left(4.5+6j\right)\ \ohm\\
+|Z(1\ \mathrm{kHz})|&=\sqrt{10.5}\ \ohm\\
+\Aboxed{V(1\ \mathrm{kHz}) &= \sqrt{10.5}\ \mathrm{V} \approx 3.24\ \mathrm{V}}
+\end{align}$$
+
+$$\begin{align}
+Z(50\ \mathrm{kHz})&= 4.5\ohm + j \left(50\cdot10^{3}\ \mathrm{Hz}\right)\left(6\cdot10^{-3}\ \mathrm{H}\right)\\
+&= \left(4.5+300j\right)\ \ohm\\
+|Z(50\ \mathrm{kHz})|&=\sqrt{304.5}\ \ohm\\
+\Aboxed{V(50\ \mathrm{kHz}) &= \sqrt{304.5}\ \mathrm{V} \approx 17.45\ \mathrm{V}}
+\end{align}$$
+
+
+$$\begin{align}
+f&=\dfrac{1}{2\pi\sqrt{LC}}\\
+&= \dfrac{1}{2\pi\sqrt{\left(6\ \mathrm{mH}\right)\left(1\ \mu\mathrm{F}\right)}}\\
+\Aboxed{f&=2054.68\ \mathrm{Hz}}
+\end{align}$$
+
+
+$$I(\omega)=\dfrac{V_\mathrm{in}}{\sqrt{R^2 + \left(\omega L-\dfrac{1}{\omega C}\right)^2}}$$
+
+
+
+
+$$\begin{align}
+&f=\dfrac{1}{2\pi\sqrt{LC}} &\delta f=\dfrac{f}{2}\sqrt{\left(\dfrac{\delta L}{L}\right)^2+\left(\dfrac{\delta C}{C}\right)^2}
+\end{align}$$
+
+$$f=2089.46\pm 56.04\ \mathrm{Hz}$$
+
+
 

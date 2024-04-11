@@ -30,14 +30,6 @@ $t$ encodes prior information about the range of variational energy.
 
 
 
-$d$, $\vec{k}$, 
-
-
-
-
-
-
-
 
 
 

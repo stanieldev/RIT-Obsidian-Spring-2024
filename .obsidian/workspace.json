@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a75c2db78753761b",
+            "id": "fd863d4a0354076f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Linear Algebra/Properties of Linear Algebras.md",
+                "file": "Statistical Physics/Homework/Homework 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9872279af20eb5dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Linear Algebra/Properties of Linear Algebras.md",
+                "file": "Statistical Physics/Homework/Homework 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Linear Algebra/Properties of Linear Algebras.md",
+                "file": "Statistical Physics/Homework/Homework 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Linear Algebra/Properties of Linear Algebras.md"
+                "file": "Statistical Physics/Homework/Homework 5.md"
               }
             }
           }
@@ -146,14 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a75c2db78753761b",
+  "active": "fd863d4a0354076f",
   "lastOpenFiles": [
+    "Advanced Linear Algebra/Lectures/Lecture 22.md",
+    "Statistical Physics/Homework/Homework 5.md",
+    "BEC Paper Notes.md",
+    "Statistical Physics/Lectures/Lecture 20&21.md",
+    "Statistical Physics/Lectures/Lecture 21.md",
+    "Lanata Research/Equations of Use.md",
+    "Advanced Linear Algebra/Lectures/Lecture 21.md",
+    "Advanced Linear Algebra/Properties of Linear Algebras.md",
+    "High Performance Computing/HPC 1.md",
+    "Advanced Laboratory/Polarization Rotation.md",
+    "Advanced Linear Algebra/Lectures/Lecture 20.md",
+    "Statistical Physics/Lectures/Lecture 19.md",
+    "Statistical Physics/Grand Canonical Ensemble.md",
+    "Statistical Physics/Canonical Ensemble.md",
+    "Statistical Physics/Microcanonical Ensemble.md",
+    "Statistical Physics/Homework/Homework 4.md",
     "Advanced Linear Algebra/Lectures/Lecture 19.md",
     "Advanced Linear Algebra/Lectures/Lecture 2.md",
-    "Advanced Linear Algebra/Properties of Linear Algebras.md",
-    "Advanced Laboratory/Polarization Rotation.md",
     "Advanced Laboratory/Noisy Signals.md",
-    "Statistical Physics/Homework/Homework 4.md",
     "Statistical Physics/Lectures/Lecture 18.md",
     "README.md",
     "Advanced Linear Algebra/Lectures/Lecture 18.md",
@@ -161,19 +175,6 @@
     "Statistical Physics/Lectures/Lecture 17.md",
     "Statistical Physics/Lectures/Lecture 16.md",
     "Advanced Linear Algebra/Lectures/Lecture 16.md",
-    "Advanced Linear Algebra/Lectures/Lecture 15.md",
-    "Statistical Physics/Homework/Homework 3.md",
-    "Advanced Linear Algebra/Lectures/Lecture 14.md",
-    "Advanced Laboratory/Gamma Spectroscopy.md",
-    "Advanced Linear Algebra/Lectures/Lecture 11.md",
-    "Advanced Linear Algebra/Lectures/Lecture 10.md",
-    "Advanced Linear Algebra/Lectures/Lecture 12.md",
-    "Statistical Physics.md",
-    "Intro to Moral Issues.md",
-    "Advanced Laboratory.md",
-    "Advanced Linear Algebra.md",
-    "Capstone Preparation.md",
-    "Statistical Physics/Homework/Homework 2.md",
     "Statistical Physics/Homework",
     "Statistical Physics/Lectures",
     "Advanced Linear Algebra/Lectures",
