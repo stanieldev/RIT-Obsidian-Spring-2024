@@ -71,4 +71,30 @@ $$\begin{align}
 $$f=2089.46\pm 56.04\ \mathrm{Hz}$$
 
 
+$$\begin{align}
+Q&=\dfrac{1}{R}\sqrt{\dfrac{L}{C}}\\
+&=\dfrac{1}{4.5\ \Omega}\sqrt{\dfrac{6\cdot10^{-3}\ \mathrm{H}}{1\cdot10^{-6}\ \mathrm{F}}}\\
+&= 17.213
+\end{align}$$
+Calculate Theoretical
+
+
+
+$$Q=\dfrac{1}{R}\sqrt{\dfrac{L}{C}}$$
+Calculate after Fit
+Compare Difference
+
+$$\begin{align}
+Q&=\dfrac{f_0}{\Delta f}\\
+&= \dfrac{2089.5 \ \mathrm{Hz}}{\left(
+2180.37-2002.33\right) \ \mathrm{Hz}}\\
+\Aboxed{Q &= 11.736}
+\end{align}$$
+at half power, find value and compare to theory.
+
+
+
+
+
+
 

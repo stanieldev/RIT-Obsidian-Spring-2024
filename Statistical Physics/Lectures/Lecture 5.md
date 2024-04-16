@@ -9,7 +9,7 @@ Random Walks, Brownian Motion, Percolation, and Active Matter
 
 ### Brownian Motion
 Obeys the heat/diffusion equation.
-$D = \mu k_B T, \ \ \ \langle\Delta x\rangle = 2D\Delta\tau$
+$D = \mu k_B T, \ \ \ \langle\Delta x^2\rangle = 2D\Delta\tau$
 Where $\Delta\tau$ is lag time.
 
 ### Fractals

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dba107c7d2fce1db",
+        "id": "e682dab7d4005cc1",
         "type": "tabs",
         "children": [
           {
-            "id": "fd863d4a0354076f",
+            "id": "885ca3cbfe7826e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Physics/Homework/Homework 5.md",
+                "file": "Statistical Physics/Ensemble (Microcanonical).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9872279af20eb5dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Physics/Homework/Homework 5.md",
+                "file": "Statistical Physics/Ensemble (Microcanonical).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Physics/Homework/Homework 5.md",
+                "file": "Statistical Physics/Ensemble (Microcanonical).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Physics/Homework/Homework 5.md"
+                "file": "Statistical Physics/Ensemble (Microcanonical).md"
               }
             }
           }
@@ -147,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd863d4a0354076f",
+  "active": "885ca3cbfe7826e3",
   "lastOpenFiles": [
-    "Advanced Linear Algebra/Lectures/Lecture 22.md",
     "Statistical Physics/Homework/Homework 5.md",
-    "BEC Paper Notes.md",
+    "Statistical Physics/Ising Model.md",
+    "Statistical Physics/Homework/Homework 2.md",
     "Statistical Physics/Lectures/Lecture 20&21.md",
-    "Statistical Physics/Lectures/Lecture 21.md",
-    "Lanata Research/Equations of Use.md",
-    "Advanced Linear Algebra/Lectures/Lecture 21.md",
-    "Advanced Linear Algebra/Properties of Linear Algebras.md",
-    "High Performance Computing/HPC 1.md",
-    "Advanced Laboratory/Polarization Rotation.md",
-    "Advanced Linear Algebra/Lectures/Lecture 20.md",
     "Statistical Physics/Lectures/Lecture 19.md",
-    "Statistical Physics/Grand Canonical Ensemble.md",
-    "Statistical Physics/Canonical Ensemble.md",
-    "Statistical Physics/Microcanonical Ensemble.md",
-    "Statistical Physics/Homework/Homework 4.md",
-    "Advanced Linear Algebra/Lectures/Lecture 19.md",
-    "Advanced Linear Algebra/Lectures/Lecture 2.md",
-    "Advanced Laboratory/Noisy Signals.md",
     "Statistical Physics/Lectures/Lecture 18.md",
-    "README.md",
-    "Advanced Linear Algebra/Lectures/Lecture 18.md",
-    "Advanced Linear Algebra/Lectures/Lecture 17.md",
+    "Statistical Physics/Ensemble (Grand Canonical).md",
+    "Statistical Physics/Ensemble (Canonical).md",
     "Statistical Physics/Lectures/Lecture 17.md",
+    "Statistical Physics/Ensemble (Microcanonical).md",
     "Statistical Physics/Lectures/Lecture 16.md",
-    "Advanced Linear Algebra/Lectures/Lecture 16.md",
+    "Statistical Physics/Diffusion.md",
+    "Statistical Physics/Entropy.md",
+    "Statistical Physics/Lectures/Lecture 12.md",
+    "Statistical Physics/Lectures/Lecture 14.md",
+    "Statistical Physics/Lectures/Lecture 11.md",
+    "Statistical Physics/Lectures/Lecture 8.md",
+    "Statistical Physics/Ideal Gas (Microcanonical).md",
+    "Statistical Physics/Lectures/Lecture 7.md",
+    "Statistical Physics/Lectures/Lecture 6.md",
+    "Statistical Physics/Lectures/Lecture 5.md",
+    "Statistical Physics/Lectures/Lecture 4.md",
+    "Statistical Physics/Lectures/Lecture 3.md",
+    "Statistical Physics/Lectures/Lecture 2.md",
+    "Statistical Physics/Lectures/Lecture 1.md",
+    "Advanced Laboratory/Polarization Rotation.md",
     "Statistical Physics/Homework",
     "Statistical Physics/Lectures",
     "Advanced Linear Algebra/Lectures",
