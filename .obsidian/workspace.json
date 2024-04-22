@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e682dab7d4005cc1",
+        "id": "1bc7b2f8062b45d2",
         "type": "tabs",
         "children": [
           {
-            "id": "885ca3cbfe7826e3",
+            "id": "9da919b86668f87b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Laboratory/Polarization Rotation.md",
+                "file": "Statistical Physics/Homework/Homework 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Laboratory/Polarization Rotation.md",
+                "file": "Statistical Physics/Homework/Homework 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Laboratory/Polarization Rotation.md",
+                "file": "Statistical Physics/Homework/Homework 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Laboratory/Polarization Rotation.md"
+                "file": "Statistical Physics/Homework/Homework 5.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b924a4b9b65c5410",
+  "active": "9da919b86668f87b",
   "lastOpenFiles": [
+    "Statistical Physics/Ensemble (Grand Canonical).md",
+    "Statistical Physics/Entropy.md",
+    "Statistical Physics/Ensemble (Microcanonical).md",
+    "Statistical Physics/Ensemble (Canonical).md",
+    "Statistical Physics/Homework/Homework 5.md",
+    "Statistical Physics/Lectures/Lecture 22.md",
+    "Statistical Physics/Lectures/Lecture 20&21.md",
+    "Advanced Linear Algebra/Lectures/Lecture 24.md",
+    "Advanced Linear Algebra/Lectures/Lecture 22.md",
+    "Advanced Linear Algebra/Properties of Linear Algebras.md",
+    "Advanced Laboratory/Polarization Rotation.md",
     "Advanced Laboratory/Interferometry.md",
     "Advanced Laboratory/Friday Lectures.md",
-    "Statistical Physics/Ensemble (Grand Canonical).md",
-    "Statistical Physics/Ensemble (Microcanonical).md",
-    "Statistical Physics/Homework/Homework 5.md",
     "Statistical Physics/Ising Model.md",
     "Statistical Physics/Homework/Homework 2.md",
-    "Statistical Physics/Lectures/Lecture 20&21.md",
     "Statistical Physics/Lectures/Lecture 19.md",
     "Statistical Physics/Lectures/Lecture 18.md",
-    "Statistical Physics/Ensemble (Canonical).md",
     "Statistical Physics/Lectures/Lecture 17.md",
     "Statistical Physics/Lectures/Lecture 16.md",
     "Statistical Physics/Diffusion.md",
-    "Statistical Physics/Entropy.md",
     "Statistical Physics/Lectures/Lecture 12.md",
     "Statistical Physics/Lectures/Lecture 14.md",
     "Statistical Physics/Lectures/Lecture 11.md",
     "Statistical Physics/Lectures/Lecture 8.md",
     "Statistical Physics/Ideal Gas (Microcanonical).md",
     "Statistical Physics/Lectures/Lecture 7.md",
-    "Statistical Physics/Lectures/Lecture 6.md",
-    "Statistical Physics/Lectures/Lecture 5.md",
-    "Statistical Physics/Lectures/Lecture 4.md",
-    "Statistical Physics/Lectures/Lecture 3.md",
-    "Statistical Physics/Lectures/Lecture 2.md",
     "Statistical Physics/Homework",
     "Statistical Physics/Lectures",
     "Advanced Linear Algebra/Lectures",
