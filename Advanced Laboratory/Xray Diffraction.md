@@ -33,3 +33,17 @@ E_{\beta} &= -\Delta E(K_{\beta}) \\
 | $K_{\alpha2}$ | $8.0279\mathrm{\ keV}$ | $1.5446\mathrm{\ Å}$ |
 | $K_{\beta}$   | $8.9053\mathrm{\ keV}$ | $1.3924\mathrm{\ Å}$ |
 Table 1: Energies of Transitions of Copper
+
+
+
+
+$$I(\lambda)d\lambda = K\left(\dfrac{eV\lambda}{hc}-1\right)\dfrac{1}{\lambda^2}d\lambda$$
+
+| $(h,k,l)$ | $\lambda$ |
+| --------- | --------- |
+| $(0,0,2)$ |           |
+| $(1,1,1)$ |           |
+| $(0,2,2)$ |           |
+| $(2,2,2)$ |           |
+| ...       |           |
+

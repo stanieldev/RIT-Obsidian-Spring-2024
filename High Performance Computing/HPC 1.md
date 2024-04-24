@@ -15,3 +15,7 @@ For a 3d grid, a equipartition in all dimensions would have a rank 0 to 7.
 112 in Ternary is the center of a 3x3x3 grid.
 Up 1 Z, In 1 Row, 2nd on that next row.
 = 222 - 110 (Subtract 1 from all but last to be on "top" of the section).
+
+
+I didn't go to any other classes because I was busy.
+Thx to Dr. Yosef Zlochower for letting me observe the class while not registered.
