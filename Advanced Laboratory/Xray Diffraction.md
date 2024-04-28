@@ -38,12 +38,6 @@ Table 1: Energies of Transitions of Copper
 
 
 $$I(\lambda)d\lambda = K\left(\dfrac{eV\lambda}{hc}-1\right)\dfrac{1}{\lambda^2}d\lambda$$
+$$\lambda=a\sin\theta$$
 
-| $(h,k,l)$ | $\lambda$ |
-| --------- | --------- |
-| $(0,0,2)$ |           |
-| $(1,1,1)$ |           |
-| $(0,2,2)$ |           |
-| $(2,2,2)$ |           |
-| ...       |           |
-
+$$I(\lambda)d\theta = K\left(\dfrac{eVa\sin\theta}{hc}-1\right)\dfrac{1}{a^2}\csc^2\theta d\theta$$

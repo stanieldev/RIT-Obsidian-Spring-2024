@@ -33,18 +33,7 @@ Theorem : If $A=U\Sigma V^T$ is a singular value decomposition of matrix $A_{m\t
 
 
 ### Fundamental Theorem of Invertible Matrices
-a) $A$ is invertible.
-b)
-c)
-d)
-e)
-f)
-g)
-h)
-i)
-j)
-k)
-l)
+ - $A$ is invertible
 
 
 

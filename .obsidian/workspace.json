@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 25.md",
+                "file": "Advanced Laboratory/Xray Diffraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "entropy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 25.md",
+                "file": "Advanced Laboratory/Xray Diffraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 25.md",
+                "file": "Advanced Laboratory/Xray Diffraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Linear Algebra/Lectures/Lecture 25.md"
+                "file": "Advanced Laboratory/Xray Diffraction.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "716b99b9bd1e62dc",
   "lastOpenFiles": [
-    "Advanced Linear Algebra/Lectures/Lecture 24.md",
-    "Advanced Linear Algebra/Lectures/Lecture 25.md",
-    "Advanced Linear Algebra/Properties of Linear Algebras.md",
-    "Statistical Physics/Lectures/Lecture 23.md",
-    "Advanced Laboratory/Xray Diffraction.md",
-    "High Performance Computing/HPC 1.md",
-    "Statistical Physics/Entropy.md",
-    "Statistical Physics/Ising Model.md",
-    "Statistical Physics/Homework/Homework 5.md",
-    "Statistical Physics/Ensemble (Grand Canonical).md",
-    "Statistical Physics/Ensemble (Microcanonical).md",
-    "Statistical Physics/Ensemble (Canonical).md",
-    "Statistical Physics/Lectures/Lecture 22.md",
-    "Statistical Physics/Lectures/Lecture 20&21.md",
-    "Advanced Linear Algebra/Lectures/Lecture 22.md",
-    "Advanced Laboratory/Polarization Rotation.md",
-    "Advanced Laboratory/Interferometry.md",
-    "Advanced Laboratory/Friday Lectures.md",
-    "Statistical Physics/Homework/Homework 2.md",
-    "Statistical Physics/Lectures/Lecture 19.md",
-    "Statistical Physics/Lectures/Lecture 18.md",
+    "Statistical Physics/Lectures/Lecture 11.md",
+    "Statistical Physics/Lectures/Lecture 12.md",
     "Statistical Physics/Lectures/Lecture 17.md",
     "Statistical Physics/Lectures/Lecture 16.md",
-    "Statistical Physics/Diffusion.md",
-    "Statistical Physics/Lectures/Lecture 12.md",
     "Statistical Physics/Lectures/Lecture 14.md",
+    "Statistical Physics/Lectures/Lecture 9.md",
+    "Statistical Physics/Lectures/Lecture 10.md",
+    "Statistical Physics/Lectures/Lecture 8.md",
+    "Statistical Physics/Lectures/Lecture 6.md",
+    "Statistical Physics/Lectures/Lecture 5.md",
+    "Statistical Physics/Lectures/Lecture 7.md",
+    "Statistical Physics/Ensemble (Canonical).md",
+    "Advanced Linear Algebra/Lectures/Lecture 11.md",
+    "Advanced Linear Algebra/Lectures/Lecture 13.md",
+    "Advanced Linear Algebra/Lectures/Lecture 14.md",
+    "Advanced Linear Algebra/Lectures/Lecture 16.md",
+    "Statistical Physics/Homework/Homework 4.md",
+    "Advanced Linear Algebra/Lectures/Lecture 26.md",
+    "Advanced Linear Algebra/Lectures/Lecture 3.md",
+    "Advanced Linear Algebra/Properties of Linear Algebras.md",
+    "Advanced Linear Algebra/Lectures/Lecture 25.md",
+    "Advanced Linear Algebra/Lectures/Lecture 7.md",
+    "Advanced Linear Algebra/Lectures/Lecture 4.md",
+    "Advanced Linear Algebra/Lectures/Lecture 24.md",
+    "Statistical Physics/Lectures/Lecture 23.md",
+    "Advanced Laboratory/Xray Diffraction.md",
     "Statistical Physics/Homework",
     "Statistical Physics/Lectures",
     "Advanced Linear Algebra/Lectures",
