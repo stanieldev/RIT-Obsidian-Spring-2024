@@ -5,7 +5,7 @@
  - Orthogonal definition, orthonormal definition.
  - Vector projections, orthogonal matrices.
  - Orthogonal matrix properties (inverse as transpose).
- - determinant is always +/- 1.
+	 - determinant is always +/- 1.
  - Orthogonal complement and projections. (W perp).
  - The 4 Fundamental Spaces.
  - Orthogonal decomp theorem definition (W + W perp = Space).

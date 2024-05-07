@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Laboratory/Xray Diffraction.md",
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Laboratory/Xray Diffraction.md",
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Laboratory/Xray Diffraction.md",
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Laboratory/Xray Diffraction.md"
+                "file": "Advanced Linear Algebra/Lectures/Lecture 16.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "716b99b9bd1e62dc",
   "lastOpenFiles": [
-    "Statistical Physics/Lectures/Lecture 11.md",
-    "Statistical Physics/Lectures/Lecture 12.md",
-    "Statistical Physics/Lectures/Lecture 17.md",
-    "Statistical Physics/Lectures/Lecture 16.md",
-    "Statistical Physics/Lectures/Lecture 14.md",
-    "Statistical Physics/Lectures/Lecture 9.md",
-    "Statistical Physics/Lectures/Lecture 10.md",
-    "Statistical Physics/Lectures/Lecture 8.md",
-    "Statistical Physics/Lectures/Lecture 6.md",
-    "Statistical Physics/Lectures/Lecture 5.md",
-    "Statistical Physics/Lectures/Lecture 7.md",
-    "Statistical Physics/Ensemble (Canonical).md",
-    "Advanced Linear Algebra/Lectures/Lecture 11.md",
-    "Advanced Linear Algebra/Lectures/Lecture 13.md",
-    "Advanced Linear Algebra/Lectures/Lecture 14.md",
-    "Advanced Linear Algebra/Lectures/Lecture 16.md",
-    "Statistical Physics/Homework/Homework 4.md",
-    "Advanced Linear Algebra/Lectures/Lecture 26.md",
-    "Advanced Linear Algebra/Lectures/Lecture 3.md",
+    "Advanced Linear Algebra/Lectures/Lecture 18.md",
     "Advanced Linear Algebra/Properties of Linear Algebras.md",
-    "Advanced Linear Algebra/Lectures/Lecture 25.md",
-    "Advanced Linear Algebra/Lectures/Lecture 7.md",
+    "Advanced Linear Algebra/Lectures/Lecture 26.md",
+    "Advanced Linear Algebra/Lectures/Lecture 6.md",
+    "Advanced Linear Algebra/Lectures/Lecture 5.md",
     "Advanced Linear Algebra/Lectures/Lecture 4.md",
+    "Advanced Linear Algebra/Lectures/Lecture 25.md",
     "Advanced Linear Algebra/Lectures/Lecture 24.md",
+    "Advanced Linear Algebra/Lectures/Lecture 22.md",
+    "Advanced Linear Algebra/Lectures/Lecture 21.md",
+    "Advanced Linear Algebra/Lectures/Lecture 20.md",
+    "Advanced Linear Algebra/Lectures/Lecture 19.md",
+    "Advanced Linear Algebra/Lectures/Lecture 15.md",
+    "Advanced Linear Algebra/Lectures/Lecture 17.md",
+    "Advanced Linear Algebra/Lectures/Lecture 16.md",
+    "Advanced Linear Algebra/Lectures/Lecture 14.md",
+    "Advanced Linear Algebra/Lectures/Lecture 13.md",
+    "Advanced Linear Algebra/Lectures/Lecture 11.md",
+    "Advanced Linear Algebra/Lectures/Lecture 10.md",
+    "Advanced Linear Algebra/Lectures/Lecture 9.md",
+    "Advanced Linear Algebra/Lectures/Lecture 8.md",
+    "Advanced Linear Algebra/Lectures/Lecture 7.md",
+    "Advanced Linear Algebra/Lectures/Lecture 3.md",
+    "Advanced Linear Algebra/Lectures/Lecture 2.md",
     "Statistical Physics/Lectures/Lecture 23.md",
-    "Advanced Laboratory/Xray Diffraction.md",
+    "Statistical Physics/Lectures/Lecture 22.md",
     "Statistical Physics/Homework",
     "Statistical Physics/Lectures",
     "Advanced Linear Algebra/Lectures",
